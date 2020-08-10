@@ -1,4 +1,4 @@
-<h1 align="center">I am Chao Yu (趙佑)</h1>
+<h1 align="center">Chao Yu (趙佑)</h1>
 
 I am interested in application development (e.g. web/game/mobile dev), database systems, and distributed systems.
 
