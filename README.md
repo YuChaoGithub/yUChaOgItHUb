@@ -1,6 +1,6 @@
 <h1 align="center">Chao Yu (趙佑)</h1>
 
-I am interested in application development (e.g. web/game/mobile dev), database systems, and distributed systems.
+I am interested in software engineering, database systems, and distributed systems.
 
 I also enjoy drawing, writing, and creating [random stuff](https://shinerightstudio.com/projects/).
 
