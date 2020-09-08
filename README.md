@@ -17,4 +17,4 @@ I also enjoy drawing, writing, and creating [random stuff](https://shinerightstu
 
 Contact me: **chaoyu@link.cuhk.edu.hk**.
 
-[Visit my blog](https://shinerightstudio.com/)
+[Blog](https://shinerightstudio.com/) ． [Homepage](https://yuchao.page)
