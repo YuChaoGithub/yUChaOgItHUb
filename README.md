@@ -1,14 +1,14 @@
-<h1 align="center">Chao Yu (趙佑)</h1>
+<h1 align="center">Yu CHAO (趙佑)</h1>
 
-I am interested in software engineering and distributed systems.
+I am interested in distributed systems, software engineering, and generally the more applied side of computer science.
 
 I also enjoy drawing, writing, and creating [random stuff](https://shinerightstudio.com/projects/).
 
 **Software Projects:**
 
+* Games: [Knights Rubbish](https://github.com/YuChaoGithub/Knights-Rubbish), [kQq](https://github.com/YuChaoGithub/kqq).
 * Web: [YARC](https://github.com/YuChaoGithub/YARC).
 * Chatbot: [Meme藏家](https://github.com/YuChaoGithub/meme-linebot).
-* Games: [Knights Rubbish](https://github.com/YuChaoGithub/Knights-Rubbish), [kQq](https://github.com/YuChaoGithub/kqq).
 * Mobile Apps: [Free Diving Apnea Training](https://github.com/YuChaoGithub/flutter-apnea-app), [Music Training](https://github.com/YuChaoGithub/music-training), [Recordable Soundpad](https://github.com/YuChaoGithub/recordable-launchpad).
 
 **Course Projects in CUHK B.Sc. Computer Science**
