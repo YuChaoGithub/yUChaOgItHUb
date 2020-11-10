@@ -8,7 +8,7 @@ I also enjoy drawing, writing, and creating [random stuff](https://shinerightstu
 
 * Games: [Knights Rubbish](https://github.com/YuChaoGithub/Knights-Rubbish), [kQq](https://github.com/YuChaoGithub/kqq).
 * Web: [YARC](https://github.com/YuChaoGithub/YARC).
-* Chatbot: [Meme藏家](https://github.com/YuChaoGithub/meme-linebot).
+* Chatbot: [Meme Line Chatbot](https://github.com/YuChaoGithub/meme-linebot).
 * Mobile Apps: [Free Diving Apnea Training](https://github.com/YuChaoGithub/flutter-apnea-app), [Music Training](https://github.com/YuChaoGithub/music-training), [Recordable Soundpad](https://github.com/YuChaoGithub/recordable-launchpad).
 
 **Course Projects in CUHK B.Sc. Computer Science**
