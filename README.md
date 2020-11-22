@@ -1,6 +1,6 @@
 <h1 align="center">Yu CHAO (趙佑)</h1>
 
-I am interested in distributed systems, software engineering, and generally the more applied side of computer science.
+I am interested in the systems side of computer science (e.g. OS, distributed systems, cloud).
 
 I also enjoy drawing, writing, and creating [random stuff](https://shinerightstudio.com/projects/).
 
@@ -13,7 +13,7 @@ I also enjoy drawing, writing, and creating [random stuff](https://shinerightstu
 
 **Course Projects in CUHK B.Sc. Computer Science**
 
-[ESTR4120/CSCI4430 Computer Networks](https://github.com/YuChaoGithub/ESTR4120), [CSCI3100 Software Engineering](https://github.com/YuChaoGithub/CSCI3100-Project), [CSCI3180 Programming Languages](https://github.com/YuChaoGithub/CSCI3180-Assignments), [CSCI3170 Database Systems](https://github.com/YuChaoGithub/CSCI3170-Project), [ESTR2102/CSCI2100 Data Structures](https://github.com/YuChaoGithub/CUHK-CSCI2100-ESTR2102).
+[CSCI4180 Cloud Computing and Storage](https://github.com/YuChaoGithub/CSCI4180), [ESTR4120/CSCI4430 Computer Networks](https://github.com/YuChaoGithub/ESTR4120), [CSCI3100 Software Engineering](https://github.com/YuChaoGithub/CSCI3100-Project), [CSCI3180 Programming Languages](https://github.com/YuChaoGithub/CSCI3180-Assignments), [CSCI3170 Database Systems](https://github.com/YuChaoGithub/CSCI3170-Project), [ESTR2102/CSCI2100 Data Structures](https://github.com/YuChaoGithub/CUHK-CSCI2100-ESTR2102).
 
 Contact me: **chaoyu@link.cuhk.edu.hk**.
 
