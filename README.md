@@ -2,7 +2,7 @@
 
 I am a final year student at the Chinese University of Hong Kong.
 
-I am mostly interested in the systems side of computer science (e.g. OS, distributed systems, cloud, database).
+I am mostly interested in the systems side of computer science (e.g. distributed systems, cloud, database).
 
 I also enjoy drawing, writing, and creating [random stuff](https://shinerightstudio.com/projects/) on my free time.
 
